@@ -1,0 +1,46 @@
+var group___core =
+[
+    [ "Manifold", "classmanifold_1_1_manifold.html", [
+      [ "OpType", "classmanifold_1_1_manifold.html#aa1aa1c6a8f3bbed5b167bc2d4511b969", [
+        [ "ADD", "classmanifold_1_1_manifold.html#aa1aa1c6a8f3bbed5b167bc2d4511b969a9eeb52badb613229884838847294b90d", null ],
+        [ "SUBTRACT", "classmanifold_1_1_manifold.html#aa1aa1c6a8f3bbed5b167bc2d4511b969a23ebcc4776b613af25dfbe7c8ce4813e", null ],
+        [ "INTERSECT", "classmanifold_1_1_manifold.html#aa1aa1c6a8f3bbed5b167bc2d4511b969a24bdbe2bcaf533b7b3f0bd58bfa7f291", null ]
+      ] ],
+      [ "Manifold", "classmanifold_1_1_manifold.html#ad5f60691d05e3402630122740cdf3a0b", null ],
+      [ "Manifold", "classmanifold_1_1_manifold.html#a6fcdceb0502c33d24913c6936914dd78", null ],
+      [ "Decompose", "classmanifold_1_1_manifold.html#a7f20b130779680156ce0d28d91e5d106", null ],
+      [ "GetMesh", "classmanifold_1_1_manifold.html#a74a906cf6aacd6c0aef61b5079a8c750", null ],
+      [ "IsEmpty", "classmanifold_1_1_manifold.html#a8e12342fc420701fbffd97025421575a", null ],
+      [ "NumVert", "classmanifold_1_1_manifold.html#a85b690c706c5e2c2c29e0ced0c2728ca", null ],
+      [ "NumEdge", "classmanifold_1_1_manifold.html#a104cf8e5b32ca6b5789e8694835f332a", null ],
+      [ "NumTri", "classmanifold_1_1_manifold.html#a4a625f14e59f176052a369213cd89ed6", null ],
+      [ "BoundingBox", "classmanifold_1_1_manifold.html#a3d711d458596b520edd4cd7948a53e67", null ],
+      [ "Precision", "classmanifold_1_1_manifold.html#a013e5ce70b14d7d19393bcdffbc73ce2", null ],
+      [ "Genus", "classmanifold_1_1_manifold.html#a4b1e9ca27fc618965d0bbbc9d29fb5c1", null ],
+      [ "GetProperties", "classmanifold_1_1_manifold.html#ace809d84f44f59232653183bf86ece07", null ],
+      [ "GetCurvature", "classmanifold_1_1_manifold.html#ab0d7e4ea0e16e5a88c1625d421f6220a", null ],
+      [ "GetMeshRelation", "classmanifold_1_1_manifold.html#a45ea90568e3c9072089e9854cd51a02f", null ],
+      [ "GetMeshIDs", "classmanifold_1_1_manifold.html#aeaa2ce8b0003eba66acd2f681bb294fd", null ],
+      [ "AsOriginal", "classmanifold_1_1_manifold.html#a9b4bbbc5b70a0d1f6b07c91f1684fb57", null ],
+      [ "Translate", "classmanifold_1_1_manifold.html#ac1ebb85b775a3293bca68c2339762a08", null ],
+      [ "Scale", "classmanifold_1_1_manifold.html#ae06789ff9cbe03e56260538276dd8183", null ],
+      [ "Rotate", "classmanifold_1_1_manifold.html#a54569c8da01e3385a426011a40a60629", null ],
+      [ "Transform", "classmanifold_1_1_manifold.html#a707b0078fbb9bbad183812d7290630ce", null ],
+      [ "Warp", "classmanifold_1_1_manifold.html#aecb7b2e2a6a18a570154dec76658496c", null ],
+      [ "Refine", "classmanifold_1_1_manifold.html#a5d9227a2d10d8ad7b005555213ecd1ac", null ],
+      [ "Boolean", "classmanifold_1_1_manifold.html#a9aad9d9b9a58ff2b7622de673742d1df", null ],
+      [ "operator+", "classmanifold_1_1_manifold.html#af95e73e5427d09b9d9e025d5cf367c30", null ],
+      [ "operator+=", "classmanifold_1_1_manifold.html#a530ec6ae990090f4b5c52f0d32eb2688", null ],
+      [ "operator-", "classmanifold_1_1_manifold.html#ad9da8c505e6846e9645008825833e1da", null ],
+      [ "operator-=", "classmanifold_1_1_manifold.html#ae17823c1f0efdfa41324892e52ab1f2b", null ],
+      [ "operator^", "classmanifold_1_1_manifold.html#ad1e4e5720f01934c44aebc597be4d104", null ],
+      [ "operator^=", "classmanifold_1_1_manifold.html#a88768bbf9fabf89e72b27a45321b6522", null ],
+      [ "Split", "classmanifold_1_1_manifold.html#a60e241b8a56d334b3d2d3dbd2fc808ba", null ],
+      [ "SplitByPlane", "classmanifold_1_1_manifold.html#adc134d7a6dfbf8c74e5d531bbeb330cb", null ],
+      [ "TrimByPlane", "classmanifold_1_1_manifold.html#a1b711341093c115f6688cbcaae5c8741", null ],
+      [ "IsManifold", "classmanifold_1_1_manifold.html#a28f34ca6c256f1f7fa44e862540ec421", null ],
+      [ "MatchesTriNormals", "classmanifold_1_1_manifold.html#a611a5fd95dc5d49cd88182b8ead722b7", null ],
+      [ "NumDegenerateTris", "classmanifold_1_1_manifold.html#afe3dd0baef775b394ee1a1ee0e353e66", null ],
+      [ "NumOverlaps", "classmanifold_1_1_manifold.html#a0dd36b29fdc9003280f6b1b96907b704", null ]
+    ] ]
+];

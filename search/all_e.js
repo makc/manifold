@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['samples_0',['Samples',['../group___samples.html',1,'']]],
+  ['scale_1',['Scale',['../classmanifold_1_1_manifold.html#ae06789ff9cbe03e56260538276dd8183',1,'manifold::Manifold::Scale()'],['../structmanifold_1_1_box.html#af3e725a4539cd6b9e8ee26467375f80d',1,'manifold::Box::Scale()']]],
+  ['scallop_2',['Scallop',['../group___samples.html#ga45f5b5c2a374a8c67d9208a2bf9acc36',1,'manifold']]],
+  ['setcircularsegments_3',['SetCircularSegments',['../classmanifold_1_1_manifold.html#a6333f6c738389041fd0fe9ac6575dc3e',1,'manifold::Manifold']]],
+  ['setmincircularangle_4',['SetMinCircularAngle',['../classmanifold_1_1_manifold.html#ad6f1ba689ed92327e6521c9ac5b245de',1,'manifold::Manifold']]],
+  ['setmincircularedgelength_5',['SetMinCircularEdgeLength',['../classmanifold_1_1_manifold.html#ac135436162d85680b5160f8560fe5e19',1,'manifold::Manifold']]],
+  ['setprecision_6',['SetPrecision',['../structmanifold_1_1_manifold_1_1_impl.html#a32981853ceaf771ca541df5b5c6e085b',1,'manifold::Manifold::Impl']]],
+  ['simplepolygon_7',['SimplePolygon',['../group___connections.html#gaed4da6ab86fb2506d0db41eb336d7b73',1,'manifold']]],
+  ['simplifytopology_8',['SimplifyTopology',['../structmanifold_1_1_manifold_1_1_impl.html#a5814bb78c6aee8506a332d6cacf76af7',1,'manifold::Manifold::Impl']]],
+  ['sind_9',['sind',['../group___connections.html#ga10673f00653c009fd83289f5c50b51da',1,'manifold']]],
+  ['size_10',['Size',['../structmanifold_1_1_box.html#ae5f4259237c2b8a90ac173f5301ecf86',1,'manifold::Box']]],
+  ['smooth_11',['Smooth',['../classmanifold_1_1_manifold.html#aad322c5b69ab571a4f4fb5b26f945b90',1,'manifold::Manifold']]],
+  ['smoothness_12',['Smoothness',['../group___connections.html#structmanifold_1_1_smoothness',1,'manifold']]],
+  ['smoothness_13',['smoothness',['../group___connections.html#a6ebfae52291cc3b6f4e25043eaf14381',1,'manifold::Smoothness']]],
+  ['sortfaces_14',['SortFaces',['../structmanifold_1_1_manifold_1_1_impl.html#a3347c75f8f2b6fcd0b156327ee63e444',1,'manifold::Manifold::Impl']]],
+  ['sortverts_15',['SortVerts',['../structmanifold_1_1_manifold_1_1_impl.html#a960f240018111751cf0a91339a1d1b08',1,'manifold::Manifold::Impl']]],
+  ['sparseindices_16',['SparseIndices',['../classmanifold_1_1_sparse_indices.html',1,'manifold']]],
+  ['sphere_17',['Sphere',['../classmanifold_1_1_manifold.html#a1fa0a21aed71099905b89a10bcde0539',1,'manifold::Manifold']]],
+  ['split_18',['Split',['../classmanifold_1_1_manifold.html#a60e241b8a56d334b3d2d3dbd2fc808ba',1,'manifold::Manifold']]],
+  ['splitbyplane_19',['SplitByPlane',['../classmanifold_1_1_manifold.html#adc134d7a6dfbf8c74e5d531bbeb330cb',1,'manifold::Manifold']]],
+  ['stretchybracelet_20',['StretchyBracelet',['../group___samples.html#gaa093ef8b44f049141ccbaca556f88cd3',1,'manifold']]],
+  ['stride_5ffunctor_21',['stride_functor',['../structmanifold_1_1strided__range_1_1stride__functor.html',1,'manifold::strided_range']]],
+  ['strided_5frange_22',['strided_range',['../classmanifold_1_1strided__range.html',1,'manifold']]],
+  ['subdivide_23',['Subdivide',['../structmanifold_1_1_manifold_1_1_impl.html#a1b76cf1ff4735b2f5df332ea3829861e',1,'manifold::Manifold::Impl']]]
+];

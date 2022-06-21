@@ -1,0 +1,7 @@
+commit aa5badd1eefb745a392694c097ff2c60b6a85e81
+Author: Emmett Lalish <elalish@gmail.com>
+Date:   Mon Jun 20 17:48:26 2022 -0700
+
+    Merge pull request #142 from elalish/coverage
+    
+    disable branch coverage
